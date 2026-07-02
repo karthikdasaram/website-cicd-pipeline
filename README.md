@@ -225,25 +225,28 @@ Resources:
 
 Add screenshots here.
 
-## AWS Infrastructure
-![AWS Infrastructure](AWS%20Infrastructure.png)
+## 📷 Project Screenshots
 
-## GitHub Repository
-![GitHub Repository](Github%20Repository.png)
+### AWS Infrastructure
+![AWS Infrastructure](images/AWS%20Infrastructure.png)
 
-## Jenkins Pipeline
-![Jenkins Pipeline](Jenkins%20Pipeline.png)
+### GitHub Repository
+![GitHub Repository](images/Github%20Repository.png)
 
-## Docker Hub
-![Docker Hub](Docker%20Hub.png)
+### Jenkins Pipeline
+![Jenkins Pipeline](images/Jenkins%20Pipeline.png)
 
-## Running Pods
-![Running Pods](Running%20pods.png)
+### Docker Hub
+![Docker Hub](images/Docker%20Hub.png)
 
-## Website Running
-![Website Running](Website%20Running.png)
+### Kubernetes Nodes
+![Kubernetes Nodes](images/Kubernetes%20Nodes.png)
 
+### Running Pods
+![Running Pods](images/Running%20pods.png)
 
+### Website Running
+![Website Running](images/Website%20Running.png)
 ---
 
 # 📈 Features
